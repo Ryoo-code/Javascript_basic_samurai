@@ -1,6 +1,6 @@
 #SAMURAIの教材を使ってJavaScriptの基本文法を学ぶためのリポジトリです。
 ## 📁 フォルダ構成 
-<pre><code>``` JAVASCRIPT_BASIC/ 
+<pre><code>JAVASCRIPT_BASIC/ 
                ├── CSS/ 
                │    └── scroll.css 
                ├── js/
@@ -18,7 +18,7 @@
                ├── event.html
                ├── index.html  
                ├── scroll.html
-               └── README.md ``` </code></pre>
+               └── README.md</code></pre>
 ## ✅ 学習内容
 - 変数の宣言（let, const）
 - データ型（文字列、数値など）
