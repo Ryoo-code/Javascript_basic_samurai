@@ -1,8 +1,9 @@
 #SAMURAIの教材を使ってJavaScriptの基本文法を学ぶためのリポジトリです。
 <pre><code>## 📁 フォルダ構成 
-``` js/ ├── constant.js
-        ├── data.js
-        └── veriable.js index.html 
+``` js/ 
+    ├── constant.js
+    ├── data.js
+    └── veriable.js index.html 
   - サンプル表示用のHTMLファイル ``` </code></pre>
 
 ## ✅ 学習内容
